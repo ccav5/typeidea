@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aecf5fe5-b398-437c-ab67-1e7b4cc196cb" name="Default Changelist" comment="" />
+    <list default="true" id="aecf5fe5-b398-437c-ab67-1e7b4cc196cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/adminforms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog_tag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/comment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/comment/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/comment/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/comment/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/comment/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/comment/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/comment/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/comment/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/config/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/config/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/config/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/config/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/config/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/config/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/config/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/config_link" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/typeidea/base_admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/typeidea/custom_site.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/typeidea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/typeidea.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typeidea/typeidea/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/typeidea/typeidea/settings/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typeidea/typeidea/settings/develop.py" beforeDir="false" afterPath="$PROJECT_DIR$/typeidea/typeidea/settings/develop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typeidea/typeidea/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/typeidea/typeidea/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +56,27 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
     <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ar23JuvUHZJ4jL7kj9rnrtcz1l" />
   <component name="ProjectViewState">
@@ -29,9 +86,47 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="typeidea" sdk-home="$PROJECT_DIR$/../thefirst/bin/python3.6">
+        <option name="mySdkHome" value="$PROJECT_DIR$/../thefirst/bin/python3.6" />
+        <option name="myModuleName" value="typeidea" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="typeidea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/typeidea/blog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/typeidea/blog/admin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.admin" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,6 +139,12 @@
       <option name="presentableId" value="Default" />
       <updated>1587479191388</updated>
       <workItem from="1587479193692" duration="748000" />
+      <workItem from="1587560347795" duration="7001000" />
+      <workItem from="1587648860255" duration="1676000" />
+      <workItem from="1587652293297" duration="2792000" />
+      <workItem from="1587684805807" duration="739000" />
+      <workItem from="1587732180675" duration="8487000" />
+      <workItem from="1587822138640" duration="4072000" />
     </task>
     <servers />
   </component>
@@ -51,9 +152,32 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="537" y="243" key="SettingsEditor" timestamp="1587479261492">
-      <screen x="67" y="27" width="1978" height="1164" />
+    <state x="836" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587823386221">
+      <screen x="67" y="27" width="1949" height="1044" />
     </state>
+    <state x="836" y="311" width="424" height="484" key="FileChooserDialogImpl/67.27.1949.1044@67.27.1949.1044" timestamp="1587823386221" />
+    <state width="273" height="606" key="HiddenNamespacesPopup" timestamp="1587566751118">
+      <screen x="67" y="27" width="1975" height="1336" />
+    </state>
+    <state width="273" height="606" key="HiddenNamespacesPopup/67.27.1975.1336@67.27.1975.1336" timestamp="1587566751118" />
+    <state x="556" y="100" key="SettingsEditor" timestamp="1587826401721">
+      <screen x="67" y="27" width="1949" height="1044" />
+    </state>
+    <state x="556" y="100" key="SettingsEditor/67.27.1949.1044@67.27.1949.1044" timestamp="1587826401721" />
+    <state x="558" y="101" key="SettingsEditor/67.27.1957.1061@67.27.1957.1061" timestamp="1587651536746" />
+    <state x="560" y="102" key="SettingsEditor/67.27.1965.1076@67.27.1965.1076" timestamp="1587653996431" />
     <state x="537" y="243" key="SettingsEditor/67.27.1978.1164@67.27.1978.1164" timestamp="1587479261492" />
+    <state x="763" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1587822177264">
+      <screen x="67" y="27" width="1949" height="1044" />
+    </state>
+    <state x="680" y="266" key="com.intellij.ide.util.TipDialog/67.27.1717.862@67.27.1717.862" timestamp="1587652294493" />
+    <state x="763" y="316" key="com.intellij.ide.util.TipDialog/67.27.1949.1044@67.27.1949.1044" timestamp="1587822177264" />
+    <state x="766" y="321" key="com.intellij.ide.util.TipDialog/67.27.1957.1061@67.27.1957.1061" timestamp="1587648884341" />
+    <state x="769" y="325" key="com.intellij.ide.util.TipDialog/67.27.1965.1076@67.27.1965.1076" timestamp="1587732199704" />
+    <state x="709" y="521" key="com.intellij.ide.util.TipDialog/67.27.1975.1336@67.27.1975.1336" timestamp="1587560367099" />
+    <state x="880" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1587565515205">
+      <screen x="67" y="27" width="1975" height="1336" />
+    </state>
+    <state x="880" y="230" width="672" height="678" key="search.everywhere.popup/67.27.1975.1336@67.27.1975.1336" timestamp="1587565515205" />
   </component>
 </project>
